@@ -1,0 +1,18 @@
+{
+  "name": "booking_app_reservease",
+  "version": "1.0.0",
+  "description": "BookEZ is a feature-rich reservation app developed using the MERN (MongoDB, Express.js, React.js, Node.js) stack. Seamlessly integrating JWT authentication, cookies, and the Context API, BookEZ empowers businesses to manage reservations efficiently while providing a smooth user experience.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "yarn": "^1.22.19"
+  }
+}
